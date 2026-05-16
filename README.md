@@ -88,11 +88,3 @@ MIT License.
 
 **Aegion Dynamics**
 # Mimic-Bridge
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Mimic-Bridge
-=======
->>>>>>> 0db8b10 (first commit)
-=======
-# Mimic-Bridge
->>>>>>> 862f84b (first commit)
